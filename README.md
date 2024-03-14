@@ -1,4 +1,6 @@
 # Amazon-site-clone
+
+TASK 1 : Create a Landing Page
 A website clone of Amazon's shopping site's home page using HTML and CSS
 
 Amazon Site Clone
