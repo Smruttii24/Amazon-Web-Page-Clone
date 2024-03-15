@@ -25,3 +25,30 @@ Web Browser (e.g., Google Chrome, Firefox)
 Clone the Repository
 git clone https://github.com/smruttii24/amazon-site-clone.git
 cd amazon-site-clone
+
+TASK 1 : create a to-do list
+
+Features:
+
+Add tasks with ease
+
+Mark tasks as complete
+
+Remove tasks when done
+
+Clean and minimalist design
+
+🖥️ Check it out live here: 
+
+
+https://github.com/Smruttii24/OCTANET_MARCH/assets/147795649/44d537ca-2bfb-4020-881c-e2412600436e
+
+
+🔧 Built with:
+
+HTML for structure
+
+CSS for styling
+
+JavaScript for interactivity
+
